@@ -1,4 +1,4 @@
-free-stuff
+Free-Stuff
 ==========
 
-Free as in freedom stuff and a lot of alternative software
+Free as in Freedom Stuff and Alternative Softwares
